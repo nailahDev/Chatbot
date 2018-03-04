@@ -11,7 +11,7 @@ Make sure that you are logged in to your IBM Cloud account. Click **Catalog** an
 
 **2-Click Launch tool to open the Watson Conversation workspace**
 
-**3-Create a Workspace **
+**3-Create a Workspace.**
 
 **4-Add intents.**
 
@@ -93,11 +93,9 @@ var workspace = "<workspace_id>"; //replace with the workspace_id from service c
 
 ```
 open a terminal and Change the directory where you saved your code
-write the command ```css
-
+write the command 
   
   CD C:\Users\NailahALTayyar\Desktop\projects\Basic-Conversation-master;
-```
-```css
+
 
 
